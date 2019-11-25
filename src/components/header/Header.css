@@ -1,0 +1,25 @@
+.header {
+  background-color: #ab64bb;
+  height: 20vh;
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+.profile_img {
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 100%;
+}
+
+.profile_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.text_Bold {
+  font-weight: bold;
+}
