@@ -1,6 +1,6 @@
 .info_card {
   width: 25%;
-  border: 1px solid gray;
+  border: 1px solid #ab64bb;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
