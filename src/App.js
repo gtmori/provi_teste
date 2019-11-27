@@ -1,13 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Dashboard from './components/Dashboard';
-
+import React from "react";
+import Dashboard from "./screen/Dashboard";
+import "./App.css";
 
 function App() {
-  return (
-  <Dashboard />
-  );
+  return <Dashboard />;
 }
 
 export default App;
