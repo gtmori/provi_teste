@@ -7,24 +7,25 @@
 
 
 .quote_card {
-  border: solid 1px #4bacc7;
+  border: solid 1px #ab64bb;
   border-radius: 10px;
   padding: 20px;
   margin: 15px;
   display: flex;
   flex-direction: column;
+  background-color: #ab64bb;
   box-shadow: 5px 5px 5px gray;
 }
 
 .quote_title {
-  color: #4bacc7;
+  color: black;
   font-weight: bold;
   font-size: 1rem;
   text-align: center;
 }
 
 .quote_value {
-  color: gray;
+  color: #eee;
   font-weight: bold;
   font-size: 2rem;
   padding: 10px 0;
